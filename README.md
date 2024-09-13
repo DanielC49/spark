@@ -3,6 +3,17 @@ Spark is a simple statically-typed interpreted non object oriented programming l
 
 Learn more and check the documentation [here](https://pptgamespt.wixsite.com/pptg-coding/spark).
 
+## Example
+`hello_world.spk`
+```
+// Spark example code
+import "io";
+
+void main() {
+    print("Hello Spark!\n");
+}
+```
+
 ##  Prerequisites
 - [Microsoft Scripting Runtime](https://pptgamespt.wixsite.com/pptg-coding/tutorial-enable-dictionary)
 - [PPTGames Better Arrays](https://pptgamespt.wixsite.com/pptg-coding/better-arrays)
